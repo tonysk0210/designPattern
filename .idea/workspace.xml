@@ -5,22 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22f611b4-1e3d-4884-b6a7-8a127a8f3937" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AGENTS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PatternDesign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PatternDesign.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/ShapeFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/EnumSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/Singleton.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/AGENTS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/AGENTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/PatternDesign.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/s.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/factory/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/factory/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/factory/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/factory/ShapeFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/factory/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/singleton/EnumSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/singleton/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/singleton/Singleton.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +76,12 @@
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.factory.Main">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anthony.shangkuan\IdeaProjects\PatternDesign" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="singleton.Main" />
       <module name="PatternDesign" />
@@ -116,8 +128,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.factory.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.factory.Main" />
         <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
