@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22f611b4-1e3d-4884-b6a7-8a127a8f3937" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/adaptor/AdapterSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/CommandDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/DecoratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flyWeight/FlyweightMini.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategyBehavioral/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templateMethod/TemplateMethodSimple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
