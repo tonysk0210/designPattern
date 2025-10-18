@@ -1,0 +1,73 @@
+# ========================
+# IntelliJ IDEA 專用設定
+# ========================
+.idea/
+*.iml
+*.iws
+out/
+.idea_modules/
+.idea_workspace/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/shelf/
+.idea/httpRequests/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/gradle.xml
+.idea/compiler.xml
+
+# ========================
+# Java / Maven / Gradle
+# ========================
+target/
+build/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+gradle-app.setting
+
+# Maven
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# ========================
+# OS 與 IDE 系統檔案
+# ========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ========================
+# 日誌 / 暫存 / 設定檔
+# ========================
+*.log
+*.tmp
+*.swp
+*.bak
+*.local
+*.env
+*.properties.local
+
+# ========================
+# JetBrains AI / Codex / Copilot 等
+# ========================
+.codex/
+.codex-tasks/
+.codex-history/
+.copilot/
+.idea
